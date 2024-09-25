@@ -1,20 +1,5 @@
-# Mithril ESBuild Starter
+A repository for my personal website/portfolio.
 
-A [Mithril.js](https://mithril.js.org) starter template.
+Built on Mithril.js, using ESBuild.
 
-```bash
-# Clone this project
-npx degit kevinfiol/mithril-esbuild-starter hello-world
-
-# Navigate to newly scaffolded project
-cd ./hello-world/
-
-# Install dependencies
-npm install
-
-# Watch for changes
-npm run dev
-
-# Build
-npm run build
-```
+Used [Kevin Fiol's](https://kevinfiol.com) template to start out.
