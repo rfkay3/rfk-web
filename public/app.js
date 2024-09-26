@@ -1861,7 +1861,7 @@
   import_mithril3.default.mount(document.getElementById("app"), {
     view: () => (0, import_mithril3.default)(
       "div",
-      (0, import_mithril3.default)("h1", "mithril esbuild starter"),
+      (0, import_mithril3.default)("h1", { class: "chivo-mono-body" }, "mithril esbuild starter"),
       (0, import_mithril3.default)(Counter),
       (0, import_mithril3.default)(Input)
     )
